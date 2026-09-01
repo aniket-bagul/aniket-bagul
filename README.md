@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Aniket 👋
 
-<!--
-**aniket-bagul/aniket-bagul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an M.Sc. Mechatronics student in Germany with a strong interest in Robotics, Autonomous Systems, and Computer Vision.
 
-Here are some ideas to get you started:
+## About Me
+- 🤖 Building robotics projects with ROS2 and TurtleBot3
+- 👁️ Working with YOLOv8 and LiDAR-based perception
+- 💻 Interested in AI, autonomous navigation, and embedded systems
+- 🌱 Currently looking for Robotics Intern and Working Student opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- ROS2, Gazebo, RViz2
+- Python, C++
+- OpenCV, YOLOv8
+- MATLAB
+- Git & GitHub
+- AI, ML
+
+## Connect with Me
+- LinkedIn: https://www.linkedin.com/in/aniketbagul/
+- Email: bagulaniket8@gmail.com
